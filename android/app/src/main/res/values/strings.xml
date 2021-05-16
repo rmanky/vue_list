@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VueList</string>
+    <string name="title_activity_main">VueList</string>
+    <string name="package_name">com.rmanky.vuelist</string>
+    <string name="custom_url_scheme">com.rmanky.vuelist</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+	"appId": "com.rmanky.vuelist",
+	"appName": "VueList",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
